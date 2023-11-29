@@ -1,4 +1,4 @@
-# PintOS_CSED312
+# PintOS_project2
 
 This branch contains the code for Project 2. We have submitted this version of the code specifically for Project 2
 The project2 code was implemented on top of the original code which is provided by pintos and not on the code from Project 1.
