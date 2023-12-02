@@ -1,7 +1,6 @@
 # PintOS_CSED312
 
-This branch contains the latest version of the code, completed up to Project 3. 
+This branch contains the code for Project 3. We have submitted this version of the code specifically for Project 3.
+The project3 code was implemented on top of the 'Project2 code'.
 
-We successfully passed Projects 1, 2, and 3. 
-
-Notably, Projects 2 and 3 were tested extensively by running them 100 times using a shell script, and they passed every time.
+We executed all the tests 100 times using a shell script, and they all passed successfully.
